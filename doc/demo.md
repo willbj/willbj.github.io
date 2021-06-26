@@ -1,3 +1,3 @@
-## demo
-demo-example
-[back index](/index.md)
+## py文档示例说明
+1. doc下文件夹中index.md作为当前目录下的索引
+2. 每个文件夹下demo.md文件作为当前目录下的自用
