@@ -3,4 +3,5 @@
 # description: 学习分享-willbj #default
 show_downloads: true
 # google_analytics:
-theme: jekyll-theme-architect #theme
+# theme: jekyll-theme-architect #theme
+theme: jekyll-theme-cayman
