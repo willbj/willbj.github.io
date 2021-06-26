@@ -1,3 +1,3 @@
 ## demo
 demo-example
-[back index](/index.md)
+[back index](/)
