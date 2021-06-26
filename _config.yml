@@ -1,6 +1,6 @@
 # Architect theme : https://github.com/pages-themes/architect
-title: doc.willbj.cn
-description: 学习分享-willbj
+# title: doc.willbj.cn
+# description: 学习分享-willbj #default
 show_downloads: true
-google_analytics:
+# google_analytics:
 theme: jekyll-theme-architect #theme
